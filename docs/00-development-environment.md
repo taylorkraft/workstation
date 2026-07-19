@@ -64,9 +64,21 @@ Manages Python versions across projects.
 
 My primary code editor.
 
+Theme:
+- Dracula Theme
+- GitHub Dark Default (installed as an alternative)
+
+Extensions:
+- Prettier
+- ESLint
+- GitHub Copilot
+- Material Icon Theme
+- Error Lens
+- GitLens
+
 ### zsh
 
-My primary terminal shell.
+My primary command-line shell.
 
 ---
 
@@ -75,7 +87,6 @@ My primary terminal shell.
 Every tool in this environment has a purpose.
 
 Before adding something new, I want to understand:
-
 - What problem does it solve?
 - Why am I choosing it?
 - How do I maintain it?
